@@ -1,1 +1,3 @@
-Microsoft   https://raw.githubusercontent.com/MH719917/Qx/main/Script/%E2%93%82%EF%B8%8FMicrosoft.list
+MC        https://raw.githubusercontent.com/MH719917/Qx/main/Script/MC.list
+Tg        https://raw.githubusercontent.com/MH719917/Qx/main/Script/Tg.list
+Twitter   https://raw.githubusercontent.com/MH719917/Qx/main/Script/Twitter.list
