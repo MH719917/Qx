@@ -3,6 +3,7 @@ Tg          https://raw.githubusercontent.com/MH719917/Qx/main/Script/Tg.list
 Twitter     https://raw.githubusercontent.com/MH719917/Qx/main/Script/Twitter.list
 Netflix     https://raw.githubusercontent.com/MH719917/Qx/main/Script/Netflix.list
 Global      https://raw.githubusercontent.com/MH719917/Qx/main/Script/Global.list
+GPT         https://raw.githubusercontent.com/MH719917/Qx/main/Script/GPT.list
 国际媒体    https://raw.githubusercontent.com/MH719917/Qx/main/Script/Streaming.list
 
 
